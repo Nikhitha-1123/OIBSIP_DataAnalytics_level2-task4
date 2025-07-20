@@ -1,4 +1,4 @@
-# PROJECT8 : 📱 Google Play Store App Analysis
+# PROJECT : 📱 Google Play Store App Analysis
 
 > ✅ Level 2- Task 4
 

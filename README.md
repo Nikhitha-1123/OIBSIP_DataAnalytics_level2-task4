@@ -1,6 +1,5 @@
 # PROJECT : 📱 Google Play Store App Analysis
 
-> ✅ Level 2- Task 4
 
 This project involves data cleaning, exploratory data analysis (EDA), and sentiment analysis on Google Play Store data.
 
